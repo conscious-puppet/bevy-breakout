@@ -1,0 +1,6 @@
+/target
+/result
+/result-lib
+.direnv
+.DS_Store
+**/*/.DS_Store
